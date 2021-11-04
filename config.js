@@ -7,7 +7,7 @@ var config = {
     use3dTerrain: false,
     title: 'Making Nuisance Neighborhoods',
     subtitle: 'Exposing the Effects of Community Policing in Los Angeles',
-    byline: 'Anti-Eviction Mapping Project and UCLA Luskin Institute on Inequality and Democracy',
+    byline: 'UCLA Luskin Institute on Inequality and Democracy and Anti-Eviction Mapping Project',
     footer: '<img src = "images/IID_logo.png" width = "450" height = "150"> <br> <img src = "images/aemp_logo.png" width = "350" height = "100"> <br> <br> Created with Mapbox Community Solutions',
     chapters: [
         {
